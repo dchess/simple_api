@@ -1,0 +1,5 @@
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+    {% for table in tables %}
+    <li><a href="/api/{{ table }}">{{ table }}</a></li>
+    {% endfor %}
+</ul>

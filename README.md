@@ -1,2 +1,2 @@
 # simple_api
-A Minimal Read-Only REST API auto-generated for SQL SERVER
+A Minimal Read-Only REST API auto-generated from SQL SERVER
